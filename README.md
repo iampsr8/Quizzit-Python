@@ -48,7 +48,17 @@ Similarly the teacher can create more questions
 ![](Quizzit_ss/q6.PNG)
 
 
+After creating all the questions the teacher exits and comes back to the home screen
+
+Here the student and select STUDENT and proceed to appear the test
+
+
+![](Quizzit_ss/q13.PNG)
+
+
+
 Student enters his name and registration number to start the test
+
 
 
 ![](Quizzit_ss/q7.PNG)
